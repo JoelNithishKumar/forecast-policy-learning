@@ -79,7 +79,7 @@ This repository contains a **reproducible analysis scaffold** inspired by the cl
 ---
 
 ## Folder Structure
-
+'''text
 forecast-policy-learning/
 ├─ README.md
 ├─ LICENSE
@@ -115,4 +115,5 @@ forecast-policy-learning/
 │  └─ figures/              # (optional) copies of key figures for the write-up
 │
 └─ notebooks/
+
    └─ exploration.ipynb      # (optional; keep most work in /src for reproducibility)
