@@ -1,0 +1,2 @@
+n_rows,n_villages,n_households,arms,invest_downside_threshold,profit_downside_threshold,mean_invest_total,mean_profit
+3000,250,3000,"control, forecast_offer, insurance_offer",9711.132066366848,15019.063492716215,11986.802278700863,17608.43992697729
